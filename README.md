@@ -6,6 +6,12 @@
 <h1>Hi there👋, I'm Vitalya</h1>
 <h3>IOS Developer from St.Petersburg</h3>
 </div>
+
+<div id="socials" align="center">
+‹a href="telegram-url">
+<img src="https://t.me/@mysteryforestnights" alt="Telegram"/>
+</a>
+</div>
 <!--
 **VitalyaTereshchuk/VitalyaTereshchuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
