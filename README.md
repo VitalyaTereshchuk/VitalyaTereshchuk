@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+<div id="header" align="center">
+<h1>Hi there, I'm Vitalya</h1>
+<h3>IOS Developer from St.Petersburg</h3>
+</div>
 <!--
 **VitalyaTereshchuk/VitalyaTereshchuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
