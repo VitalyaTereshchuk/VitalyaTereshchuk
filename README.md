@@ -7,12 +7,6 @@
 <h3>IOS Developer from St.Petersburg</h3>
 </div>
 
-<div id="socials" align="center">
-‹a href="telegram-url">
-<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-
-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-</a>
-</div>
 <!--
 **VitalyaTereshchuk/VitalyaTereshchuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
