@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="![pixel-jeff-matrix-s](https://github.com/user-attachments/assets/265dadd3-d444-4b05-ab9f-204f86a24117)" alt="Описание GIF">
+</div>
+
 <div id="header" align="center">
 <h1>Hi there👋, I'm Vitalya</h1>
 <h3>IOS Developer from St.Petersburg</h3>
