@@ -3,7 +3,7 @@
 </div>
 
 <div id="header" align="center">
-<h1>Hi there👋, I'm Vitalya</h1>
+<h1>Hello World👋, I'm Vitalya</h1>
 <h3>IOS Developer from St.Petersburg</h3>
 </div>
 
