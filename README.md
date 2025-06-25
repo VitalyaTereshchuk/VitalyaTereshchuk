@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/265dadd3-d444-4b05-ab9f-204f86a24117" alt="">
+  <img src="https://github.com/user-attachments/assets/06845b23-f35d-4e22-aee6-19e680989aa5" alt="">
 </div>
+
 
 <div id="header" align="center">
 <h1>Hello World👋, I'm Vitalya!</h1>
